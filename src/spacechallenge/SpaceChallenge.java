@@ -1,7 +1,7 @@
 package spacechallenge;
 
 /**
- * Java final project from the Java Object Oriented Programming course.
+ * Final project from the Java Object Oriented Programming course.
  * 
  * @author juan
  */
