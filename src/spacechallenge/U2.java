@@ -10,8 +10,8 @@ public class U2 extends Rocket {
 
     public U2() {
         this.cost = 120;
-        this.rocketWeight = 18;
-        this.maxWeight = 29;
+        this.rocketWeight = 18000;
+        this.maxWeight = 29000;
         this.launchExplosionProbability = 0.04f;
         this.landingCrashProbability = 0.08f;
     }
